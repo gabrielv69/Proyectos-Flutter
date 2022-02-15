@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="First"
+        android:id="@+id/firs"
+        android:icon="@drawable/ic_launcher_background"
+        />
+    <item android:title="sec"
+        android:id="@+id/second"
+        android:icon="@drawable/ic_launcher_background"/>
+    <item android:title="third"
+        android:id="@+id/third"
+        android:icon="@drawable/ic_launcher_background"/>
+</menu>
